@@ -21,9 +21,9 @@ _Что реализовано:_
 
 
 _Другие пояснения:_
-- регистрация нового пользователя по ссылке: https://agile-oasis-59414.herokuapp.com/register
-- роль автора присваивается только через админку (https://agile-oasis-59414.herokuapp.com/admin, dinae:dina123)
-- локально использовала SQLite, но для heroku подключено PostgreSQL
+- регистрация нового пользователя происходит по ссылке: https://agile-oasis-59414.herokuapp.com/register
+- роль автора присваивается только через админку (https://agile-oasis-59414.herokuapp.com/admin, :key: dinae:dina123)
+- локально использована SQLite, но для heroku подключена PostgreSQL
 
 :lady_beetle: ***Обнаруженные баги:***
 - после регистрации пользователь не аутентифицируется, приходится делать login \*слёзы сожаления\*;
@@ -32,3 +32,5 @@ _Другие пояснения:_
 Пользователь-автор: :key: jacklondon:zaxscdvf <br><br>
 
 ![воть](https://i.pinimg.com/originals/55/f1/e8/55f1e894c45468045a905a045b4fb891.jpg)
+
+Но даже если нет, то я старалась :)
