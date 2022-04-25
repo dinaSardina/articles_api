@@ -22,7 +22,7 @@ _Что реализовано:_
 
 _Другие пояснения:_
 - регистрация нового пользователя происходит по ссылке: https://agile-oasis-59414.herokuapp.com/register
-- роль автора присваивается только через админку (https://agile-oasis-59414.herokuapp.com/admin, :key: dinae:dina123)
+- роль автора присваивается только через админку (https://agile-oasis-59414.herokuapp.com/admin, :key:dinae:dina123)
 - локально использована SQLite, но для heroku подключена PostgreSQL
 
 :lady_beetle: ***Обнаруженные баги:***
