@@ -31,6 +31,4 @@ _Другие пояснения:_
 
 Пользователь-автор: :key: jacklondon:zaxscdvf <br><br>
 
-![воть](https://i.pinimg.com/originals/55/f1/e8/55f1e894c45468045a905a045b4fb891.jpg)
 
-Но даже если нет, то я старалась :)
